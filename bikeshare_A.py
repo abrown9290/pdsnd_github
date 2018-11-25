@@ -21,16 +21,6 @@ MONTH_CONVERT = {
     'december': 12,
     'all': 13}
 
-DAY_CONVERT = {
-    'monday': 1,
-    'tuesday': 2,
-    'wednesday': 3,
-    'thursday': 4,
-    'friday': 5,
-    'saturday': 6,
-    'sunday': 7,
-    'all': 8
-}
 
 
 def get_filters():
