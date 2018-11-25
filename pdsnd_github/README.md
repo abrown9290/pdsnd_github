@@ -1,15 +1,24 @@
+
 ### Date created
-Include the date you created this project and README file.
+11/16/2018
+
 
 ### Project Title
-Replace the Project Title
+Bikeshare_2.py
+
 
 ### Description
-Describe what your project is about and what it does
+Bike share has city data for New York, Chicago and Washington. The interactive screen allows users to filter the data to see only the information that they want. It can be filtered by city, month and day. Includes stats about each city.
 
 ### Files used
-Include the files used
+pdsnd_github
+Bikeshare_2.py
+chicago.csv
+new_york_city.csv
+washington.csv
+
+
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/udacity/course-collaboration-travel-plans
