@@ -4,7 +4,7 @@
 
 
 ### Project Title
-Bikeshare_2.py
+Bikeshare_A.py
 
 
 ### Description
@@ -16,7 +16,7 @@ Bikeshare_2.py
 chicago.csv
 new_york_city.csv
 washington.csv
-
+.gitignore
 
 
 
