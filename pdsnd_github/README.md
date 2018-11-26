@@ -11,6 +11,7 @@ Bikeshare_2.py
 Bike share has city data for New York, Chicago and Washington. The interactive screen allows users to filter the data to see only the information that they want. It can be filtered by city, month and day. Includes stats about each city.
 
 ### Files used
+.gitignore
 pdsnd_github
 Bikeshare_2.py
 chicago.csv
