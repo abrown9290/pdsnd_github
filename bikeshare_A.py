@@ -15,23 +15,18 @@ MONTH_CONVERT = {
     'june': 6,
     'july': 7,
     'august': 8,
-    'september': 9,
-    'october': 10,
-    'november': 11,
-    'december': 12,
     'all': 13}
 
 DAY_CONVERT = {
-    'monday': 1,
-    'tuesday': 2,
-    'wednesday': 3,
-    'thursday': 4,
-    'friday': 5,
-    'saturday': 6,
-    'sunday': 7,
-    'all': 8
-}
-
+     'monday': 1,
+     'tuesday': 2,
+     'wednesday': 3,
+     'thursday': 4,
+     'friday': 5,
+     'saturday': 6,
+     'sunday': 7,
+     'all': 8
+ }
 
 def get_filters():
     """
